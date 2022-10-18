@@ -39,7 +39,7 @@
     }
     
     #border {
-        margin-top: 804px;
+        margin-top: 750px;
     }
     
     #home #text {
@@ -62,6 +62,9 @@
     #enjoy .container {
         display: inline;
     }  
+    #enjoy{
+        padding: 30px 0px;
+    }
     #enjoy #a {
         width: 100%;
         padding: 0px;
