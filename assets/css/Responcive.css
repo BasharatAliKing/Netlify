@@ -42,7 +42,7 @@
     
     #home #text {
         margin-top: 220px;
-        padding: 0px 10px;
+        padding: 0px ;
     }
     
     #home #text #email {
@@ -59,14 +59,7 @@
     
     #enjoy .container {
         display: inline;
-    }
-    
-    #enjoy #a {
-        width: 100%;
-        padding: 30px;
-        padding-left: 70px;
-    }
-    
+    }  
     #enjoy #a {
         width: 100%;
         padding: 0px;
