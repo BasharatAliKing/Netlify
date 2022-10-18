@@ -1,0 +1,106 @@
+.container {
+    margin: 30px 10px;
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+}
+.left {
+    top: 40px;
+    right: 10px;
+}
+#home #text {
+    margin-top: 220px;
+    padding: 0px 10px;
+}
+#home #text #email{
+    display: inline;
+}
+#home #text input {
+    width: 95%;
+}
+#home #text #btn {
+    width: 50%;
+}
+#enjoy .container {
+    display: inline;
+}
+#enjoy #a {
+    width: 100%;
+    padding: 30px;
+    padding-left: 70px;
+}
+#enjoy #a {
+    width: 100%;
+    padding: 30px;
+    padding-left: 10px;
+}
+    #enjoy #b video{
+        width: 300px;
+        height: 300px;
+    }
+#download .container {
+    display: inline;
+}
+#download .container #a img {
+    width: 100%;
+}
+#download .container #a #upper {
+    margin-left: 50px;
+}
+#download #b {
+    margin-left: 10px;
+}
+#watch #a {
+    width: 100%;
+    margin-left: 10px;
+}
+#kids .container {
+    display: inline;
+}
+#kids #b {
+    margin-left: 0px;
+}
+#kids #b h2 {
+    padding-right: 0px;
+}
+#question .container #mail #email {
+    display: inline;
+}
+#question #box-1 {
+    width: 100%;
+    padding: 10px;
+}
+#question #box-2 {
+    width: 100%;
+    padding: 10px;
+}
+#question #box-3 {
+    width: 100%;
+    padding: 10px;
+}
+#question #box-4 {
+    width: 100%;
+    padding: 10px;
+}
+#question #box-5 {
+    width: 100%;
+    padding: 10px;
+}
+#question #box-6 {
+    width: 100%;
+    padding: 10px;
+}
+#question p {
+    right: 0px;
+}
+#footer #child {
+    display: none;
+}
+#footer h3 {
+    margin-left: 10px;
+}
+#footer footer {
+   
+    margin-left: 10px;
+}
