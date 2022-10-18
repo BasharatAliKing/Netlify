@@ -5,7 +5,7 @@
     }
     
     .container {
-        margin: 30px 10px;
+        margin: 30px 0px;
     }
     
     h1 {
@@ -70,7 +70,7 @@
     #enjoy #a {
         width: 100%;
         padding: 0px;
-        padding-left: 10px;
+        padding-left: 0px;
     }
     
     #enjoy #b {
@@ -95,7 +95,7 @@
     }
     
     #download #b {
-        margin-left: 10px;
+        margin-left: 0px;
     }
     
     #watch #a {
@@ -104,7 +104,7 @@
     }
     
     #kids {
-        padding: 10px;
+        padding: 0px;
     }
     
     #kids .container {
