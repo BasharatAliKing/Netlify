@@ -21,7 +21,7 @@
         font-size: 18px;
     }
     #home{
-        height: 110%;
+        height: 112%;
     }
     #home h1{
         font-size: 40px;
@@ -91,7 +91,7 @@
     }
     
     #download .container #a #upper {
-        margin-left: 50px;
+        margin-left: 35px;
     }
     
     #download #b {
@@ -100,7 +100,7 @@
     
     #watch #a {
         width: 100%;
-        margin-left: 10px;
+        margin-left: 0px;
     }
     
     #kids {
@@ -164,7 +164,9 @@
         width: 90%;
         padding: 10px;
     }
-    
+    #question .container #mail #btn {
+        width: 47%;
+    }
     #question p {
         right: 25px;
     }
