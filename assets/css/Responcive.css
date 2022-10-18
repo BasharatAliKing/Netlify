@@ -20,9 +20,10 @@
     }
     #image img{
         object-fit: cover;
+        height: 100%;
     }
     #home{
-        height: 112%;
+        height: 100%;
     }
     #home h1{
         font-size: 40px;
